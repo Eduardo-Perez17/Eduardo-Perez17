@@ -11,7 +11,7 @@ Tengo sólidos conocimientos en desarrollo web, experiencia de usuarios y trabaj
 ### Me dedico a desarrollar software
 
 - 💼 Desarrolle y doy soporte a software web.
-- 🤺 Mi perfil profesional lo puedes encontrar en [perez-developer.com](https://perez-developer-page.web.app) y en [LinkedIn](https://www.linkedin.com/in/eduardo-enrique-p%C3%A9rez-salcedo-792136211/).
+- 🤺 Mi perfil profesional lo puedes encontrar en [LinkedIn](https://www.linkedin.com/in/eduardo-enrique-p%C3%A9rez-salcedo-792136211/).
 - 👨🏻‍🔬 Actualmente estoy aprendiendo sobre aws e ingles.
 - 📊 Soy entusiasta y me apasiona el constante aprendizaje de nuevas tecnologías.
 
