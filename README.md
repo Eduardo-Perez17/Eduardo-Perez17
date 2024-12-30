@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" />
 
-Soy programador full stack con mas de 3 años de estudio y 8 meses de experiencia en la industria tech. Me especializo en tecnologías con lenguajes como JavaSvascript, NestJS, Express y React.
+Soy programador full stack con mas de 3 años de estudio y mas de 1 año de experiencia en la industria tech. Me especializo en tecnologías con lenguajes como JavaSvascript, NestJS, Express y React.
 
 > Soy una persona autodidacta que se apasiona por aprender más sobre programación, tecnología y ciencias.
 
